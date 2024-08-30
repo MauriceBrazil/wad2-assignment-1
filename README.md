@@ -19,10 +19,15 @@ git clone https://github.com/MauriceBrazil/react-movie-labs.git
 
 Use the command line to install npm on these necessary files:
 
+```
 cd react-movie-labs/movies
 npm install
 npm start
+```
 
+## Link to original repository
+
+https://github.com/MauriceBrazil/react-movie-labs/tree/main
 
 ## Independent learning (if relevant)
 
