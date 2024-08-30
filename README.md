@@ -24,6 +24,9 @@ cd react-movie-labs/movies
 npm install
 npm start
 ```
+## Issues
+
+Github would not push original file to original repository as the branches were diverged. tried to resolve but couldnt so had to make a secondary repository and clone the files the upload there. Only found this issue when trying to submit.
 
 ## Link to original repository
 
